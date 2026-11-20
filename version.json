@@ -1,0 +1,11 @@
+{
+  "versionCode": 1,
+  "versionName": "2.0",
+  "minRequiredVersion": 1,
+  "isForceUpdate": false,
+  "title": "🚀 بروزرسانی سامانه کالینان علوم پزشکی",
+  "message": "نسخه جدید سامانه تغذیه دانشگاه علوم پزشکی اصفهان منتشر شده است.",
+  "releaseNotes": "• پشتیبانی کامل از سامانه کالینان علوم پزشکی اصفهان\n• رفع مشکل کد امنیتی و ابعاد کپچا\n• سیستم رزرو هوشمند با حفظ رزروهای دستی کاربر\n• پورتال درون‌برنامه‌ای جهت حل اخطارها و پرداخت آنلاین",
+  "downloadUrl": "https://github.com/hajmohamad/mui-sfd-android-app/releases/latest",
+  "directApkUrl": "https://github.com/hajmohamad/mui-sfd-android-app/releases/latest/download/app-debug.apk"
+}

@@ -1,0 +1,43 @@
+{
+  "versionCode": 1,
+  "versionName": "2.0",
+  "minRequiredVersion": 1,
+  "isForceUpdate": false,
+  "title": "🚀 بروزرسانی سامانه کالینان علوم پزشکی",
+  "message": "نسخه جدید سامانه تغذیه دانشگاه علوم پزشکی اصفهان منتشر شده است.",
+  "releaseNotes": "• پشتیبانی کامل از سامانه کالینان علوم پزشکی اصفهان\n• رفع مشکل کد امنیتی و ابعاد کپچا\n• سیستم رزرو هوشمند با حفظ رزروهای دستی کاربر\n• پورتال درون‌برنامه‌ای جهت حل اخطارها و پرداخت آنلاین",
+  "downloadUrl": "https://github.com/hajmohamad/mui-sfd-android-app/releases/latest",
+  "directApkUrl": "https://github.com/hajmohamad/mui-sfd-android-app/releases/latest/download/app-debug.apk",
+  "ads": {
+    "enabled": true,
+    "provider": "yektanet",
+    "loginAd": {
+      "enabled": true,
+      "title": "حامی مالی دانشجویان علوم پزشکی اصفهان",
+      "description": "تخفیف ویژه کتاب‌های علوم پزشکی و خدمات دانشجویی",
+      "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+      "targetUrl": "https://self.mui.ac.ir",
+      "ctaText": "مشاهده تخفیف 🔗",
+      "displaySeconds": 3
+    },
+    "bottomBanner": {
+      "enabled": true,
+      "title": "سامانه تغذیه علوم پزشکی اصفهان",
+      "subtitle": "پورتال اتوماسیون تغذیه و رزرو غذای دانشجویی",
+      "imageUrl": "",
+      "targetUrl": "https://self.mui.ac.ir",
+      "ctaText": "مشاهده پورتال"
+    },
+    "tapsell": {
+      "appKey": "",
+      "loginZoneId": "",
+      "bottomZoneId": ""
+    },
+    "yektanet": {
+      "scriptUrl": "https://cdn.yektanet.com/superscript-v2/d1VRLx1w/native-rasafilm-dl2.xyz-4067/yn_pub.js",
+      "domain": "https://rasafilm-dl2.xyz/",
+      "bottomPosId": "ynpos-21129",
+      "loginPosId": "ynpos-21130"
+    }
+  }
+}
