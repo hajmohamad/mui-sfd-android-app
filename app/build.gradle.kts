@@ -8,7 +8,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ir.ac.ui.sfd"
+        applicationId = "ir.ac.mui.sfd"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
