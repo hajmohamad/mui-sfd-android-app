@@ -2,7 +2,7 @@
   "enabled": true,
   "provider": "yektanet",
   "loginAd": {
-    "enabled": true,
+    "enabled": false,
     "title": "سامانه تغذیه دانشگاه علوم پزشکی اصفهان",
     "description": "اطلاع‌رسانی سلف، زمان‌بندی رزرو و خدمات رفاهی دانشجویان علوم پزشکی اصفهان",
     "imageUrl": "",
